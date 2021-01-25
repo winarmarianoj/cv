@@ -14,10 +14,11 @@
     background-repeat: repeat; 
 }
 .init{
-    height: 140vh; 
-    align-content: center;
+    margin-top: 5%;
+    height: 170vh; 
     justify-content: center;
 }
+
 .formacion, .info{
     height: 170vh; 
     align-content: center;
@@ -153,7 +154,7 @@
     color: #DFFF00;
 }
 
-.columna1, .columna2, .columna3, .columna1Formacion, .columna2Formacion, 
+.columna1, .columna2, .columna1Formacion, .columna2Formacion, 
 .columna1Formacion, .columna2Formacion, .columna3Formacion,
 .columna1Cursos, .columna2Cursos, .columna3Cursos,
 .columna1Experiencia, .columna2Experiencia, .columna3Experiencia,
