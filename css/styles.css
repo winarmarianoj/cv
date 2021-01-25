@@ -168,7 +168,7 @@
 /* MEDIAS QUERIES */
 
 @media (min-width: 400px) {
-    .inicio, .columna1, .columna2, .columna3, 
+    .init, .columna1, .columna2, .columna3, 
     .formacion, .columna1Formacion, .columna2Formacion, .columna3Formacion,
     .cursos, .columna1Cursos, .columna2Cursos, .columna3Cursos, 
     .experiencia, .columna1Experiencia, .columna2Experiencia, .columna3Experiencia,
@@ -182,7 +182,7 @@
 
 @media (min-width: 450px) {
     .menu,
-    .inicio, .columna1, .columna2, .columna3, 
+    .init, .columna1, .columna2, .columna3, 
     .formacion, .columna1Formacion, .columna2Formacion, .columna3Formacion,
     .cursos, .columna1Cursos, .columna2Cursos, .columna3Cursos, 
     .experiencia, .columna1Experiencia, .columna2Experiencia, .columna3Experiencia,
@@ -196,7 +196,7 @@
 
 @media (min-width: 500px) {
     .menu,
-    .inicio, .columna1, .columna2, .columna3, 
+    .init, .columna1, .columna2, .columna3, 
     .formacion, .columna1Formacion, .columna2Formacion, .columna3Formacion,
     .cursos, .columna1Cursos, .columna2Cursos, .columna3Cursos, 
     .experiencia, .columna1Experiencia, .columna2Experiencia, .columna3Experiencia,
@@ -210,7 +210,7 @@
 
 @media (min-width: 550px) {
     .menu,
-    .inicio, .columna1, .columna2, .columna3, 
+    .init, .columna1, .columna2, .columna3, 
     .formacion, .columna1Formacion, .columna2Formacion, .columna3Formacion,
     .cursos, .columna1Cursos, .columna2Cursos, .columna3Cursos, 
     .experiencia, .columna1Experiencia, .columna2Experiencia, .columna3Experiencia,
@@ -224,7 +224,7 @@
 
 @media (min-width: 620px) {    
     .menu, 
-    .inicio, .columna1, .columna2, .columna3, 
+    .init, .columna1, .columna2, .columna3, 
     .formacion, .columna1Formacion, .columna2Formacion, .columna3Formacion,
     .cursos, .columna1Cursos, .columna2Cursos, .columna3Cursos, 
     .experiencia, .columna1Experiencia, .columna2Experiencia, .columna3Experiencia,
@@ -238,7 +238,7 @@
   
   @media (min-width: 768px) {
     .menu, 
-    .inicio, .columna1, .columna2, .columna3, 
+    .init, .columna1, .columna2, .columna3, 
     .formacion, .columna1Formacion, .columna2Formacion, .columna3Formacion,
     .cursos, .columna1Cursos, .columna2Cursos, .columna3Cursos, 
     .experiencia, .columna1Experiencia, .columna2Experiencia, .columna3Experiencia,
@@ -252,7 +252,7 @@
   
   @media (min-width: 990px) {
     .menu, 
-    .inicio, .columna1, .columna2, .columna3, 
+    .init, .columna1, .columna2, .columna3, 
     .formacion, .columna1Formacion, .columna2Formacion, .columna3Formacion,
     .cursos, .columna1Cursos, .columna2Cursos, .columna3Cursos, 
     .experiencia, .columna1Experiencia, .columna2Experiencia, .columna3Experiencia,
@@ -266,7 +266,7 @@
   
   @media (min-width: 1200px) {
     .menu, 
-    .inicio, .columna1, .columna2, .columna3, 
+    .init, .columna1, .columna2, .columna3, 
     .formacion, .columna1Formacion, .columna2Formacion, .columna3Formacion,
     .cursos, .columna1Cursos, .columna2Cursos, .columna3Cursos, 
     .experiencia, .columna1Experiencia, .columna2Experiencia, .columna3Experiencia,
