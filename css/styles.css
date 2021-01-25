@@ -14,8 +14,9 @@
     background-repeat: repeat; 
 }
 .init{
-    height: 80vh; 
-    margin-top: 1%;
+    height: 100vh; 
+    align-content: center;
+    justify-content: center;
 }
 .formacion, .info{
     height: 170vh; 
