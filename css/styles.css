@@ -14,17 +14,17 @@
     background-repeat: repeat; 
 }
 .formacion, .info{
-    height: 100vh; 
+    height: 150vh; 
     align-content: center;
     justify-content: center;
 }
 .cursos, .inicio, .web{
-    height: 230vh;  
+    height: 280vh;  
     align-content: center;
     justify-content: center;
 }
 .experiencia, .competencias{
-    height: 300vh; 
+    height: 350vh; 
     align-content: center;
     justify-content: center;
 }
