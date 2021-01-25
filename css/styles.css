@@ -13,12 +13,16 @@
     background-size: cover;
     background-repeat: repeat; 
 }
+.init{
+    height: 80vh; 
+    margin-top: 1%;
+}
 .formacion, .info{
     height: 170vh; 
     align-content: center;
     justify-content: center;
 }
-.cursos, .inicio, .web{
+.cursos, .web{
     height: 300vh;  
     align-content: center;
     justify-content: center;
@@ -162,6 +166,7 @@
 /* MEDIAS QUERIES */
 
 @media (min-width: 400px) {
+    .menu,
     .inicio, .columna1, .columna2, .columna3, 
     .formacion, .columna1Formacion, .columna2Formacion, .columna3Formacion,
     .cursos, .columna1Cursos, .columna2Cursos, .columna3Cursos, 
@@ -175,6 +180,7 @@
   }
 
 @media (min-width: 450px) {
+    .menu,
     .inicio, .columna1, .columna2, .columna3, 
     .formacion, .columna1Formacion, .columna2Formacion, .columna3Formacion,
     .cursos, .columna1Cursos, .columna2Cursos, .columna3Cursos, 
@@ -188,6 +194,7 @@
   }
 
 @media (min-width: 500px) {
+    .menu,
     .inicio, .columna1, .columna2, .columna3, 
     .formacion, .columna1Formacion, .columna2Formacion, .columna3Formacion,
     .cursos, .columna1Cursos, .columna2Cursos, .columna3Cursos, 
@@ -201,6 +208,7 @@
   }
 
 @media (min-width: 550px) {
+    .menu,
     .inicio, .columna1, .columna2, .columna3, 
     .formacion, .columna1Formacion, .columna2Formacion, .columna3Formacion,
     .cursos, .columna1Cursos, .columna2Cursos, .columna3Cursos, 
