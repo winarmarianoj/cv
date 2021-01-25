@@ -15,16 +15,18 @@
 }
 .formacion, .info{
     height: 100vh; 
+    align-content: center;
+    justify-content: center;
 }
 .cursos, .inicio, .web{
     height: 230vh;  
+    align-content: center;
+    justify-content: center;
 }
 .experiencia, .competencias{
     height: 300vh; 
-}
-
-.icons{
-    margin-left: 95%;    
+    align-content: center;
+    justify-content: center;
 }
 
 .name{
