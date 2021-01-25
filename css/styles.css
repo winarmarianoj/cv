@@ -13,11 +13,10 @@
     background-size: cover;
     background-repeat: repeat; 
 }
+.competencias, .cursos, .experiencia, .inicio,
 .formacion, .language, .info, .web{
-    height: 120vh;    
-}
-.competencias, .cursos, .experiencia, .inicio{
-    height: 220vh;    
+    height: 100%; 
+    margin-top: 2%;   
 }
 .icons{
     margin-left: 95%;    
@@ -52,19 +51,15 @@
 .titleFormacion, .titleCursos{
     font-family: Verdana;
     font-size: 2rem;
-    color:blueviolet;
+    color: blueviolet;
 }
 .textFormacion, .textCursos{
     font-family: Arial;
     font-size: 25px;
-    background-color: black;@media (min-width: 500px) {
-    .piePagina, .cvMain{
-        max-width: 450px;
-    }
-  }
-
     color: orangered;
+    background-color: black;
 }
+
 #titleCompetencias{
     font-family: sans-serif;
     font-size: 35px;
@@ -120,7 +115,7 @@
 .menu{
     position: fixed;
     left: 0;
-    top: 300px;
+    top: 0;
     z-index: 2000;
 }
 .menu ul{
@@ -153,7 +148,7 @@
 .columna1Competencias, .columna2Competencias, .columna3Competencias, .columna4Competencias,
 .columna1Web, .columna2Web, .columna3Web,
 .columna1Info, .columna2Info, .columna3Info{
-    margin-top: 1%;    
+    margin-top: 4%;    
 }
 
 
@@ -239,52 +234,4 @@
     .piePagina{
         max-width: 100%;
     }
-
-}
-
-
-
-
-/*
-@media (min-width: 450px) {
-    .cvFondo, .piePagina, .cvMain{
-        max-width: 430px;
-    }
   }
-
-@media (min-width: 510px) {
-    .cvFondo, .piePagina, .cvMain{
-        max-width: 480px;
-    }
-  }
-
-@media (min-width: 550px) {
-    .cvFondo, .piePagina, .cvMain{
-        max-width: 500px;
-    }
-  }
-
-@media (min-width: 620px) {    
-    .cvFondo, .piePagina, .cvMain{
-        max-width: 580px;
-    }
-  }
-  
-  @media (min-width: 768px) {
-    .cvFondo, .piePagina, .cvMain{
-        max-width: 720px;
-    }
-  }  
-  
-  @media (min-width: 990px) {
-    .cvFondo, .piePagina, .cvMain{
-        max-width: 960px;
-    }
-  }
-  
-  @media (min-width: 1200px) {
-    .cvFondo, .piePagina, .cvMain{
-        max-width: 100%;
-    }
-  
-  */
