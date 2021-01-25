@@ -14,7 +14,7 @@
     background-repeat: repeat; 
 }
 .init{
-    height: 100vh; 
+    height: 140vh; 
     align-content: center;
     justify-content: center;
 }
@@ -167,7 +167,6 @@
 /* MEDIAS QUERIES */
 
 @media (min-width: 400px) {
-    .menu,
     .inicio, .columna1, .columna2, .columna3, 
     .formacion, .columna1Formacion, .columna2Formacion, .columna3Formacion,
     .cursos, .columna1Cursos, .columna2Cursos, .columna3Cursos, 
