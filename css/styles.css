@@ -22,10 +22,7 @@
 .icons{
     margin-left: 95%;    
 }
-.columna1Inicio, .columna2Inicio, .columna1Formacion, .columna2Formacion, 
-    .columna1Cursos, .columna2Cursos{
-    margin-top: 1%;    
-}
+
 .name{
     font-family: Tahoma;
     font-size: 3rem;
@@ -149,46 +146,145 @@
     color: #DFFF00;
 }
 
+.columna1, .columna2, .columna3, .columna1Formacion, .columna2Formacion, 
+.columna1Formacion, .columna2Formacion, .columna3Formacion,
+.columna1Cursos, .columna2Cursos, .columna3Cursos,
+.columna1Experiencia, .columna2Experiencia, .columna3Experiencia,
+.columna1Competencias, .columna2Competencias, .columna3Competencias, .columna4Competencias,
+.columna1Web, .columna2Web, .columna3Web,
+.columna1Info, .columna2Info, .columna3Info{
+    margin-top: 1%;    
+}
 
 
-@media (min-width: 450px) {
-    .piePagina, .cvMain{
-        max-width: 430px;
-    }
-  }
+/* MEDIAS QUERIES */
 
-@media (min-width: 510px) {
-    .piePagina, .cvMain{
-        max-width: 480px;
+@media (min-width: 500px) {
+    .inicio, .columna1, .columna2, .columna3, 
+    .formacion, .columna1Formacion, .columna2Formacion, .columna3Formacion,
+    .cursos, .columna1Cursos, .columna2Cursos, .columna3Cursos, .textCursos,
+    .experiencia, .columna1Experiencia, .columna2Experiencia, .columna3Experiencia,
+    .competencias, .columna1Competencias, .columna2Competencias, .columna3Competencias, .columna4Competencias,
+    .web, .columna1Web, .columna2Web, .columna3Web,
+    .info, .columna1Info, .columna2Info, .columna3Info,
+    .piePagina{
+        max-width: 450px;
     }
   }
 
 @media (min-width: 550px) {
-    .piePagina, .cvMain{
+    .inicio, .columna1, .columna2, .columna3, 
+    .formacion, .columna1Formacion, .columna2Formacion, .columna3Formacion,
+    .cursos, .columna1Cursos, .columna2Cursos, .columna3Cursos, .textCursos,
+    .experiencia, .columna1Experiencia, .columna2Experiencia, .columna3Experiencia,
+    .competencias, .columna1Competencias, .columna2Competencias, .columna3Competencias, .columna4Competencias,
+    .web, .columna1Web, .columna2Web, .columna3Web,
+    .info, .columna1Info, .columna2Info, .columna3Info,
+    .piePagina{
         max-width: 500px;
     }
   }
 
 @media (min-width: 620px) {    
-    .piePagina, .cvMain{
+    .menu, 
+    .inicio, .columna1, .columna2, .columna3, 
+    .formacion, .columna1Formacion, .columna2Formacion, .columna3Formacion,
+    .cursos, .columna1Cursos, .columna2Cursos, .columna3Cursos, .textCursos,
+    .experiencia, .columna1Experiencia, .columna2Experiencia, .columna3Experiencia,
+    .competencias, .columna1Competencias, .columna2Competencias, .columna3Competencias, .columna4Competencias,
+    .web, .columna1Web, .columna2Web, .columna3Web,
+    .info, .columna1Info, .columna2Info, .columna3Info,
+    .piePagina{
         max-width: 580px;
     }
   }
   
   @media (min-width: 768px) {
-    .piePagina, .cvMain{
+    .menu, 
+    .inicio, .columna1, .columna2, .columna3, 
+    .formacion, .columna1Formacion, .columna2Formacion, .columna3Formacion,
+    .cursos, .columna1Cursos, .columna2Cursos, .columna3Cursos, .textCursos,
+    .experiencia, .columna1Experiencia, .columna2Experiencia, .columna3Experiencia,
+    .competencias, .columna1Competencias, .columna2Competencias, .columna3Competencias, .columna4Competencias,
+    .web, .columna1Web, .columna2Web, .columna3Web,
+    .info, .columna1Info, .columna2Info, .columna3Info,
+    .piePagina{
         max-width: 720px;
     }
   }  
   
   @media (min-width: 990px) {
-    .piePagina, .cvMain{
+    .menu, 
+    .inicio, .columna1, .columna2, .columna3, 
+    .formacion, .columna1Formacion, .columna2Formacion, .columna3Formacion,
+    .cursos, .columna1Cursos, .columna2Cursos, .columna3Cursos, .textCursos,
+    .experiencia, .columna1Experiencia, .columna2Experiencia, .columna3Experiencia,
+    .competencias, .columna1Competencias, .columna2Competencias, .columna3Competencias, .columna4Competencias,
+    .web, .columna1Web, .columna2Web, .columna3Web,
+    .info, .columna1Info, .columna2Info, .columna3Info,
+    .piePagina{
         max-width: 960px;
     }
   }
   
   @media (min-width: 1200px) {
-    .piePagina, .cvMain{
+    .menu, 
+    .inicio, .columna1, .columna2, .columna3, 
+    .formacion, .columna1Formacion, .columna2Formacion, .columna3Formacion,
+    .cursos, .columna1Cursos, .columna2Cursos, .columna3Cursos, .textCursos,
+    .experiencia, .columna1Experiencia, .columna2Experiencia, .columna3Experiencia,
+    .competencias, .columna1Competencias, .columna2Competencias, .columna3Competencias, .columna4Competencias,
+    .web, .columna1Web, .columna2Web, .columna3Web,
+    .info, .columna1Info, .columna2Info, .columna3Info,
+    .piePagina{
         max-width: 100%;
     }
+
+}
+
+
+
+
+/*
+@media (min-width: 450px) {
+    .cvFondo, .piePagina, .cvMain{
+        max-width: 430px;
+    }
   }
+
+@media (min-width: 510px) {
+    .cvFondo, .piePagina, .cvMain{
+        max-width: 480px;
+    }
+  }
+
+@media (min-width: 550px) {
+    .cvFondo, .piePagina, .cvMain{
+        max-width: 500px;
+    }
+  }
+
+@media (min-width: 620px) {    
+    .cvFondo, .piePagina, .cvMain{
+        max-width: 580px;
+    }
+  }
+  
+  @media (min-width: 768px) {
+    .cvFondo, .piePagina, .cvMain{
+        max-width: 720px;
+    }
+  }  
+  
+  @media (min-width: 990px) {
+    .cvFondo, .piePagina, .cvMain{
+        max-width: 960px;
+    }
+  }
+  
+  @media (min-width: 1200px) {
+    .cvFondo, .piePagina, .cvMain{
+        max-width: 100%;
+    }
+  
+  */
