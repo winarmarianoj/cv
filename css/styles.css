@@ -159,6 +159,32 @@
 
 /* MEDIAS QUERIES */
 
+@media (min-width: 400px) {
+    .inicio, .columna1, .columna2, .columna3, 
+    .formacion, .columna1Formacion, .columna2Formacion, .columna3Formacion,
+    .cursos, .columna1Cursos, .columna2Cursos, .columna3Cursos, 
+    .experiencia, .columna1Experiencia, .columna2Experiencia, .columna3Experiencia,
+    .competencias, .columna1Competencias, .columna2Competencias, .columna3Competencias, .columna4Competencias,
+    .web, .columna1Web, .columna2Web, .columna3Web,
+    .info, .columna1Info, .columna2Info, .columna3Info,
+    .piePagina{
+        max-width: 350px;
+    }
+  }
+
+@media (min-width: 450px) {
+    .inicio, .columna1, .columna2, .columna3, 
+    .formacion, .columna1Formacion, .columna2Formacion, .columna3Formacion,
+    .cursos, .columna1Cursos, .columna2Cursos, .columna3Cursos, 
+    .experiencia, .columna1Experiencia, .columna2Experiencia, .columna3Experiencia,
+    .competencias, .columna1Competencias, .columna2Competencias, .columna3Competencias, .columna4Competencias,
+    .web, .columna1Web, .columna2Web, .columna3Web,
+    .info, .columna1Info, .columna2Info, .columna3Info,
+    .piePagina{
+        max-width: 400px;
+    }
+  }
+
 @media (min-width: 500px) {
     .inicio, .columna1, .columna2, .columna3, 
     .formacion, .columna1Formacion, .columna2Formacion, .columna3Formacion,
