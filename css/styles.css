@@ -72,6 +72,15 @@
     color: orangered;
     background-color: black;
 }
+.titleCertificate{
+    font-family: Verdana;
+    font-size: 2rem;
+    color: blueviolet;
+    text-align: center;
+}
+.imgCertificados{
+   margin-left: 15%;
+}
 
 #titleCompetencias{
     font-family: sans-serif;
